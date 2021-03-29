@@ -123,6 +123,10 @@ header {
   background-size: cover;
 }
 
+main {
+  padding: 100px 0;
+}
+
 #intro-body {
   display: table-cell;
   vertical-align: middle;
